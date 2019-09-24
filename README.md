@@ -1,4 +1,4 @@
-# ssl_mia
+# Semi-Supervised Learning and Multi-Task Learning in Medical Image Analysis
 
 ## Papers
 <ol>
