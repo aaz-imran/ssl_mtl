@@ -32,5 +32,16 @@
   <li>
   <a href="https://arxiv.org/pdf/1102.4086.pdf">Schroedinger Eigenmaps for the Analysis of Bio-Medical Data</a>
   </li>
+
+  <li>
+  <a href="https://arxiv.org/pdf/1906.06430.pdf">Multi-Adversarial Variational Autoencoder Networks</a>
+  </li>
+  
+  
+  <li>
+  <a href="https://arxiv.org/pdf/1903.00348.pdf">Transformation Consistent Self-ensembling Model for Semi-supervised Medical Image Segmentation</a>
+  </li>
+
+  
   
 </ol>
