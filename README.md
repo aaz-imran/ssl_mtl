@@ -1,6 +1,7 @@
 # ssl_mia
 
 ## Papers
+<ol>
 <li>
   <a href="https://papers.nips.cc/paper/3198-semi-supervised-multitask-learning.pdf">Semi-Supervised Multitask Learning</a>
   <br>
@@ -11,3 +12,4 @@
   <br>
 
  </li>
+</ol>
