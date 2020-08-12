@@ -41,6 +41,10 @@
   <li>
   <a href="https://arxiv.org/pdf/1903.00348.pdf">Transformation Consistent Self-ensembling Model for Semi-supervised Medical Image Segmentation</a>
   </li>
+  
+  <li>
+  <a href="https://arxiv.org/pdf/2005.02523.pdf">Partly Supervised Multitask Learning</a>
+  </li>
 
   
   
